@@ -1,7 +1,7 @@
 # PendulumLab
 
 <p align="center">
-  <img src="demos/cover.png" width="900"/>
+  <img src="demos/cover2.png" width="900"/>
 </p>
 
 <p align="center">
