@@ -1,7 +1,7 @@
 # PendulumLab
 
 <p align="center">
-  <img src="assets/cover.png" width="900"/>
+  <img src="demos/cover.png" width="900"/>
 </p>
 
 <p align="center">
@@ -24,9 +24,11 @@ The project was extended into a complete interactive physics simulation featurin
 - Physics-based collision handling
 - Mathematical modeling of dynamic systems
 
-## Technical Highlights
+> [!TIP]
+> Interactive demos and simulation recordings are available in the `demos/` folder.  
+> One example is shown below to demonstrate the implemented mechanics and system behavior.
 
-- Implemented the simulation logic from first principles
-- Developed a custom visualization pipeline
-- Built interactive UI controls for parameter input
-- Managed real-time updates and physics calculations
+<video width="800" controls>
+  <source src="demos/vid5.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
