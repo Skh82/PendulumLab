@@ -28,7 +28,6 @@ The project was extended into a complete interactive physics simulation featurin
 > Interactive demos and simulation recordings are available in the `demos/` folder.  
 > One example is shown below to demonstrate the implemented mechanics and system behavior.
 
-<video width="800" controls>
-  <source src="demos/vid5.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+## Demo Preview
+
+https://github.com/user-attachments/assets/5b48c7c8-69b0-442c-84fa-7cb54787f55d
